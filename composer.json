@@ -28,7 +28,7 @@
     },
     "require": {
         "php": ">=5.6",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^6.2|^7.0",
         "masterminds/html5": "^2.2"
     },
     "autoload": {
